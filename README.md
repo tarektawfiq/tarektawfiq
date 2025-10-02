@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=60&pause=1000&color=470E92&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=hey+my+friend;Be+strong+for+Yourself)](https://git.io/typing-svg)
+
+
+
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 </div>
