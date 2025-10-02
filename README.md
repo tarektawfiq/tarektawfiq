@@ -1,12 +1,4 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on New E-commerce
-- 🌱 I’m currently learning Laravel
-- 🤔 I’m looking for help with .Net
-- 💬 Ask me about Full Stack
-- 📫 How to reach me: tarektawfiq40@gmail.com
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=22&pause=1000&color=470E92&center=true&width=435&lines=hey+my+friend;Be+strong+for+Yourself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=60&pause=1000&color=470E92&center=true&vCenter=true&repeat=false&width=435&lines=hey+my+friend;Be+strong+for+Yourself)](https://git.io/typing-svg)
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 </div>
@@ -56,5 +48,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="linkedin.com/in/tarek-tawfiq-9516a6259" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="tarektawfiq40@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 ###
